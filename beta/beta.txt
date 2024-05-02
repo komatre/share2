@@ -1,0 +1,65 @@
+Abnormal ADFS authentication using a suspicious certificate
+Suspected overpass-the-hash attack (Kerberos)
+Suspected NTLM authentication tampering
+Suspicious additions to sensitive groups
+Suspected brute-force attack (SMB)
+Suspected use of Metasploit hacking framework
+Suspected WannaCry ransomware attack
+Suspicious VPN Connection
+Account enumeration reconnaissance
+Suspected AD FS DKM key read
+Suspicious modification of domain AdminSdHolder
+Suspected AS-REP Roasting attack
+Suspicious Kerberos delegation attempt using BronzeBit method (CVE-2020-17049 exploitation)
+Suspected brute-force attack (Kerberos, NTLM)
+Suspected DFSCoerce attack using Distributed File System Protocol 
+Suspected DCSync attack (replication of directory services)
+Suspected DCShadow attack (domain controller promotion)
+Suspected DCShadow attack (domain controller replication request)
+Network mapping reconnaissance (DNS)
+Remote code execution attempt over DNS
+Suspicious communication over DNS
+Directory Services Restore Mode Password Change
+User and IP address reconnaissance (SMB)
+Suspected abnormal Exchange attribute change (CVE-2021-26855 exploitation)
+Suspected Golden Ticket usage (forged authorization data)
+Suspected Golden Ticket usage (encryption downgrade)
+Suspected Golden Ticket usage (time anomaly)
+Suspected Golden Ticket usage (ticket anomaly)
+Honeytoken authentication activity
+Honeytoken group membership changed
+Honeytoken was queried via LDAP
+Honeytoken was queried via SAM-R
+Honeytoken user attributes modified
+Suspected Kerberos SPN exposure
+Suspicious Kerberos delegation attempt by a newly created computer
+Suspected brute-force attack (LDAP)
+Account enumeration reconnaissance (LDAP)
+Security principal reconnaissance (LDAP)
+Active Directory attributes Reconnaissance using LDAP
+Suspicious service creation
+Suspected Netlogon privilege elevation attempt (CVE-2020-1472 exploitation)
+Suspected NTLM relay attack (Exchange Server account)
+Suspected over-pass-the-hash attack (forced encryption type)
+Suspected identity theft (pass-the-certificate)
+Suspected identity theft (pass-the-hash)
+Suspected identity theft (pass-the-ticket)
+Suspicious network connection over Encrypting File System Remote Protocol
+Suspected Windows Print Spooler service exploitation attempt (CVE-2021-34527 exploitation)
+Remote code execution attempt
+Suspected golden ticket usage (ticket anomaly using resource based constrained delegation)
+Suspicious modification of the Resource Based Constrained Delegation attribute by a machine account
+Malicious request of Data Protection API (DPAPI) master key
+Suspected rogue Kerberos certificate usage
+User and group membership reconnaissance (SAMR)
+Suspected account takeover using shadow credentials
+Suspected skeleton key attack (encryption downgrade)
+Data exfiltration over SMB
+Suspected SMB packet manipulation (CVE-2020-0796 exploitation)
+Suspicious certificate usage over Kerberos protocol (PKINIT)
+Suspicious deletion of certificate database entries
+Suspicious modifications to the AD CS security permissions
+Suspicious modification of the trust relationship of AD FS server
+Suspicious disable of audit filters of AD CS
+Suspicious Domain-Controller certificate request (ESC8)
+Suspected suspicious Kerberos ticket request
